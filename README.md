@@ -8,7 +8,7 @@ This repository contains data about the project
 
 ## About us
 We don't just develop a website for freelancers. We want to STANDARDIZE prices for freelancers ' work.
-The ranking system allows developers to select tasks according to their level. And this will help customers immediately determine the costs and be confident in the quality of the task. Since to get a rank, the developer must prove their knowledge by passing a special test for each level
+The ranking system allows developers to select tasks according to their level. And this will help customers immediately determine the costs and be confident in the quality of the task. Since to get a rank, the developer must prove their knowledge by passing a special test for each level.
 [Do you want something? Write to us](mailto:ninjafreelance.com@gmail.com)
 
 ## Repository links
