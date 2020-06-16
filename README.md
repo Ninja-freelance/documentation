@@ -13,9 +13,9 @@ The ranking system allows developers to select tasks according to their level. A
 
 ## Repository links
 - [Useful links for developers](https://github.com/Ninja-freelance/documentation/links.md)
-- [Program documentation](https://github.com/Ninja-freelance/documentation/documentations)
-- [Design schemes](https://github.com/Ninja-freelance/documentation/design-schemes)
-- [Project images](https://github.com/Ninja-freelance/documentation/project-images)
+- [Program documentation](https://github.com/Ninja-freelance/documentation/tree/master/Documentations)
+- [Design schemes](https://github.com/Ninja-freelance/documentation/tree/master/Design%20schemes)
+- [Project images](https://github.com/Ninja-freelance/documentation/tree/master/Project%20images)
 
 ## Contributors
 #### Frontend team
