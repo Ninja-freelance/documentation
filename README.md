@@ -1,15 +1,21 @@
 # Main info
-This repo is dedicated to all site documentation and organization files
+This repository contains data about the project
 
-## repository content
-- [Useful links for developers](https://github.com/Ninja-freelance/documentation/links.md)
-- [Program documentation](https://github.com/Ninja-freelance/documentation/documentations)
-- [Design schemes](https://github.com/Ninja-freelance/documentation/design-schemes)
+## Content
+- [About us](https://github.com/Ninja-freelance/documentation#about-us)
+- [Repository links](https://github.com/Ninja-freelance/documentation#repository-links)
+- [Contributors](https://github.com/Ninja-freelance/documentation#contributors)
 
 ## About us
 We don't just develop a website for freelancers. We want to STANDARDIZE prices for freelancers ' work.
-The ranking system allows developers to select tasks according to their level. And this will help customers immediately determine the costs and be confident in the quality of the task. Since to get a rank, the developer must prove their knowledge by passing a special test for each level
+The ranking system allows developers to select tasks according to their level. And this will help customers immediately determine the costs and be confident in the quality of the task. Since to get a rank, the developer must prove their knowledge by passing a special test for each level.
 [Do you want something? Write to us](mailto:ninjafreelance.com@gmail.com)
+
+## Repository links
+- [Useful links for developers](https://github.com/Ninja-freelance/documentation/links.md)
+- [Program documentation](https://github.com/Ninja-freelance/documentation/tree/master/Documentations)
+- [Design schemes](https://github.com/Ninja-freelance/documentation/tree/master/Design%20schemes)
+- [Project images](https://github.com/Ninja-freelance/documentation/tree/master/Project%20images)
 
 ## Contributors
 #### Frontend team
