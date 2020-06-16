@@ -2,9 +2,9 @@
 This repository contains data about the project
 
 ## Content
-- [About us](https://github.com/Ninja-freelance/documentation/README.md#about-us)
-- [Repository links](https://github.com/Ninja-freelance/documentation/README.md#repository-links)
-- [Contributors](https://github.com/Ninja-freelance/documentation/README.md#contributors)
+- [About us](https://github.com/Ninja-freelance/documentation#about-us)
+- [Repository links](https://github.com/Ninja-freelance/documentation#repository-links)
+- [Contributors](https://github.com/Ninja-freelance/documentation#contributors)
 
 ## About us
 We don't just develop a website for freelancers. We want to STANDARDIZE prices for freelancers ' work.
